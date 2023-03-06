@@ -1,0 +1,21 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Python", "Java", "C", "R code", "SQL", "React", "Git", "VUE", "Spring-boot",
+       "Mybatis", "HTML", "JavaScript", "CSS" ]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"}
+      ]
+  },
+  {
+    "grouping":"Soft-Skills",
+      "skills":[
+          "Proficient in English and Native in Chinese (Mandarin)", "Strong self-learner & quick learner", "effective communication/collaboration",
+          "Excellent communication, problem-solving, and analytical skills"
+      ]
+  }
+]
