@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Front-end Developer and Data Engineer Intern",
+        "company":"MEDUNION TECHNOLOGY Company",
+        "summary":"Self-learnt VUE in one week and Developed the Application UI design pattern with VUE.Independently implemented Automatic programming of the data connecting Excel/ Word files with Python. Efficiently transferred patients and hospital data in the database which connected front-end with back-end of APP by employing Java, Spring-boot, Oracle and Mybatis.",
+        "range":"May 2021 - July 2021"
+    },
+    {
+        "role":"Data Engineer and Developer Assistant",
+        "company":"China UnionPay Merchant Services Co., LTD.",
+        "summary":"Maintained and updated database on a frequent basis. Designed and developed ERP System for the department to facilitate efficient management. Assist the IT team to develop data organizing website and test the operation which speed up Business Management Department management efficiency. Liaised with internal and external resources to facilitate effective communication. Drafted and delivered a website report in excel file to manager.",
+        "range":"September 2021 - October 2021"
+    }
+]
